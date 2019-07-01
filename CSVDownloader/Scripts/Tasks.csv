@@ -1,0 +1,60 @@
+0,Task Name,Notes/Files,Workdays,Finish,Predecessors,Assignees,% Complete
+1.0,Permits,,6/25/2018 Mon,25 days,7/27/2018 Fri,,
+2.0,Site plan,,6/25/2018 Mon,5 days,6/29/2018 Fri,,Ben Kronlein
+3.0,Architectural Review Board approval,,7/2/2018 Mon,15 days,7/20/2018 Fri,2,Ben Kronlein
+4.0,Zoning permit,,7/23/2018 Mon,1 day,7/23/2018 Mon,3,Ben Kronlein
+5.0,Septic/sewer permit,,7/2/2018 Mon,3 days,7/4/2018 Wed,2,BreAnna Kronlein
+6.0,Fire sprinkler permit,,7/2/2018 Mon,5 days,7/6/2018 Fri,2,BreAnna Kronlein
+7.0,Building permit,,7/23/2018 Mon,3 days,7/25/2018 Wed,3,Ben Kronlein
+8.0,Water tap fee,,7/2/2018 Mon,1 day,7/2/2018 Mon,2,
+9.0,Other fees,,7/2/2018 Mon,5 days,7/6/2018 Fri,2,
+10.0,Set temp pole,,7/26/2018 Thu,1 day,7/26/2018 Thu,7,
+11.0,***Inspection Temp Pole***,,7/27/2018 Fri,1 day,7/27/2018 Fri,10,
+12.0,Power company account information,,7/27/2018 Fri,1 day,7/27/2018 Fri,10,
+13.0,Foundation,,7/2/2018 Mon,37 days,8/21/2018 Tue,,
+14.0,Stake lot for excavation,,7/2/2018 Mon,1 day,7/2/2018 Mon,2,Ivy Excavating
+15.0,Install construction drive,,7/24/2018 Tue,1 day,7/24/2018 Tue,4,Ivy Excavating
+16.0,Deliver dumpster,,7/25/2018 Wed,1 day,7/25/2018 Wed,15,Walter
+17.0,Deliver porta-john,,7/25/2018 Wed,1 day,7/25/2018 Wed,15,Walter
+18.0,Excavate basement,,7/25/2018 Wed,2 days,7/26/2018 Thu,15,Ivy Excavating
+19.0,"Order drain tile, plastic, sump pit",,7/27/2018 Fri,1 day,7/27/2018 Fri,18,
+20.0,Stake Footers,,7/27/2018 Fri,1 day,7/27/2018 Fri,18,
+21.0,***Inspection - Footers***,,7/30/2018 Mon,1 day,7/30/2018 Mon,20,
+22.0,Form pour - Footers,,7/31/2018 Tue,2 days,8/1/2018 Wed,21,Ivy Excavating
+23.0,"Install gravel, tile",,8/2/2018 Thu,1 day,8/2/2018 Thu,22,
+24.0,Pin footers,,8/3/2018 Fri,1 day,8/3/2018 Fri,23,
+25.0,Form pour - Walls,,8/6/2018 Mon,5 days,8/10/2018 Fri,24,
+26.0,Plumbing rough - Underground,,8/13/2018 Mon,3 days,8/15/2018 Wed,25,City Plumbing
+27.0,Waterproof foundation,,8/13/2018 Mon,1 day,8/13/2018 Mon,25,Ivy Excavating
+28.0,Radon mitigation,,8/13/2018 Mon,1 day,8/13/2018 Mon,25,
+29.0,Prep slab,,8/16/2018 Thu,1 day,8/16/2018 Thu,26,
+30.0,***Inspection - Slab***,,8/16/2018 Thu,1 day,8/16/2018 Thu,26,
+31.0,Pour slab,,8/17/2018 Fri,1 day,8/17/2018 Fri,30,
+32.0,Backfill foundation (Gravel garage),,8/17/2018 Fri,2 days,8/20/2018 Mon,30,
+33.0,Pour garage slab,,8/21/2018 Tue,1 day,8/21/2018 Tue,32,
+34.0,Framing,,8/22/2018 Wed,41 days,10/17/2018 Wed,,
+35.0,Deliver lumber,,8/22/2018 Wed,1 day,8/22/2018 Wed,33,Framer- Bob's framing- Bobby Morris
+36.0,Frame home,,8/23/2018 Thu,25 days,9/26/2018 Wed,35,Framer- Bob's framing- Bobby Morris
+37.0,Install windows & doors (other than foundation),,9/24/2018 Mon,2 days,9/25/2018 Tue,36FS-3,Framer- Bob's framing- Bobby Morris
+38.0,Install foundation windows,,9/27/2018 Thu,1 day,9/27/2018 Thu,36,Framer- Bob's framing- Bobby Morris
+39.0,Exterior trim,,9/26/2018 Wed,12 days,10/11/2018 Thu,37,Framer- Bob's framing- Bobby Morris
+40.0,Install roof,,10/12/2018 Fri,4 days,10/17/2018 Wed,39,Framer- Bob's framing- Bobby Morris
+41.0,Rough-in,,9/19/2018 Wed,25 days,10/23/2018 Tue,,
+42.0,Fireplaces,,9/19/2018 Wed,1 day,9/19/2018 Wed,37FS-5,Carpenter- Winchester Carpentry- Dean Winchester
+43.0,HVAC rough,,9/26/2018 Wed,8 days,10/5/2018 Fri,37,
+44.0,Plumbing top-out,,9/26/2018 Wed,12 days,10/11/2018 Thu,37,City Plumbing
+45.0,Install water service,,10/5/2018 Fri,1 day,10/5/2018 Fri,44FS-5,
+46.0,Waterproof brick ledge,,10/9/2018 Tue,1 day,10/9/2018 Tue,44FS-3,
+47.0,Install garage doors,,10/3/2018 Wed,1 day,10/3/2018 Wed,44FS-7,
+48.0,Electrical rough,,10/8/2018 Mon,8 days,10/17/2018 Wed,44FS-4,
+49.0,Install utilities,,10/15/2018 Mon,1 day,10/15/2018 Mon,48FS-3,
+50.0,"Phone, cable & low-voltage rough",,10/15/2018 Mon,3 days,10/17/2018 Wed,48FS-3,
+51.0,Sweep home for insulation,,10/17/2018 Wed,1 day,10/17/2018 Wed,50FS-1,
+52.0,***Inspection - Framing & Electrical***,,10/17/2018 Wed,1 day,10/17/2018 Wed,51FS-1,
+53.0,***Inspection Service Release***,,10/17/2018 Wed,1 day,10/17/2018 Wed,52FS-1,
+54.0,Insulate walls,,10/18/2018 Thu,3 days,10/22/2018 Mon,40,
+55.0,***Inspection - Insulation***,,10/23/2018 Tue,1 day,10/23/2018 Tue,54,
+56.0,Exterior Finish,,10/18/2018 Thu,22 days,11/16/2018 Fri,,
+57.0,Deliver brick & stone,,10/18/2018 Thu,1 day,10/18/2018 Thu,48,Landscaping: Shire Landscapes: Sam Gamgee
+58.0,Install masonry,,10/19/2018 Fri,14 days,11/7/2018 Wed,57,Landscaping: Shire Landscapes: Sam Gamgee
+59.0,Clean lot - Rough grade,,11/8/2018 Thu,1 day,11/8/2018 Thu,58,Ben Kronlein
